@@ -1,0 +1,43 @@
+.red-black {
+	background-color: #CC0830;
+	color : #000000
+}
+#red-black {
+	background-color: #CC0830;
+	color : #000000
+}
+.deepPink-black {
+	background: #FF1493;
+	color : #000000
+}
+#deepPink-black {
+	background: #FF1493;
+	color : #000000
+}
+.-deepPink {
+	color: #FF1493
+}
+#-deepPink {
+	color: #FF1493
+}
+#-lightBlue {
+	color : #99FFFF;
+}
+.-lightBlue {
+	color : #99FFFF;
+}
+.-royalBlue {
+	color : #4169E1;
+}
+#-royalBlue {
+	color : #4169E1;
+}
+.-red {
+	color : #FF0000
+}
+#-red {
+	color : #FF0000
+}
+.-yellow {
+	color : #EFBC0E
+}
